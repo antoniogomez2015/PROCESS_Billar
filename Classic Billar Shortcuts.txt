@@ -1,0 +1,156 @@
+
+
+
+	Classic Billar
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+	Modo Entrenamiento Shortcuts:
+	_____________________________
+
+
+
+		_Space:
+
+			_ésta opción nos permite cambiar de cámara, nos permite cambiar ha una cámara con
+
+			una vista más panorámica de la mesa y por ende de la jugada en la cuál, podremos
+
+			orbitar un poco, pudiendo así, apreciar mejor las posibilidades de juego
+
+
+			_y para invercamiar en las cámaras debemos hacer "space/space", repetidas veces
+
+
+
+		_R:
+
+			_ésta opción nos permite ver la repetición instantánea de la última jugada, hecho
+
+			ó shortcut, que debe de aplicarse justo al haber terminado la última jugada ya que
+
+			al hacer "mouse left click", ó "mouse right click", ya no habrá forma de ver la 
+
+			repetición de la última jugada realizada
+
+
+
+		_B:
+
+			_ésta opción nos permite escoger ó intercambiar en cualquier momento con que bola
+
+			deseamos juegar, pudiendo así, jugar tanto con la bola blanca como con la bola
+
+			amarilla a través, del shortcut "B/B"
+
+
+
+		_H: 
+
+			_ésta opción nos permite cambiar la situación ó ubicación de las 3, bolas en la
+
+			mesa, de ésta manera, podremos cambiar el juego ha resolver en el tiro de un 
+
+			momento dado
+
+
+		_I:
+
+			_ésta opción nos permite cambiar la situación ó ubicación de las 3, bolas en la
+
+			mesa de forma manual, para que así, podamos cambiar la situación de juego a 
+
+			voluntad y de forma personalizada y milimétrica
+
+			_a través, de una vista axonométrica ó cenital en la cuál, podremos a través, del
+
+			mouse, seleccionar cada una de las bolas en la mesa y colocarlas en el lugar 
+
+			deseado para luego hacer "mouse right click", y volver al modo de visualización 
+
+			normal de la mesa
+
+
+
+		_G:
+
+			_ésta opción nos permite volver ha una situación de juego anterior, de ésta 
+
+			manera podremos volver sólo ha una situación de juego atras pudiendo así, volver
+
+			ha jugar el tiro anterior en caso de haber pasado al siguiente por descuido
+
+
+		_J:
+
+			_ésta opción nos permite cambiar las opciones de juego, como cambiar ha la modalidad
+
+			de jeugo libre, 1 banda, 3 bandas, de forma rápida y directa sin la necesidad de 
+	
+			del modo de entrenamiento
+
+
+		_D:
+
+			_ésta opción nos permite de forma rápida volver ha colocar la vista de cámara en su
+
+			posición inicial u original del respectivo tiro
+
+
+
+		_E:
+
+			_ésta opción permite que el sistema haga un cálculo de la mejor jugada posible la
+
+			cuál, nos mostrará la respectiva trayectoria en la pizarra de estratégias, de ésta
+
+			manera, podremos ver jugadas posibles para resolver la respectiva jugada
+
+
+		M:
+
+			_ésta opción nos permite dejar la letra "M", pulsada para que así, podamos ver la
+
+			trayectoria en movimiento de la simulación realizada sobre la pizarra de estratégias
+
+			realizada en el paso del shortcut, anterior "E"
+
+
+
+		_Z:
+
+			_ésta opción nos permitirá llevar ha cabo la respectiva jugada ó cálculo realizado
+
+			por el sistema y ver éste ejecutado en la mesa de billar y observar de primera mano
+
+			los resultados
+
+
+
+		_V:
+
+			_ésta opción nos permite ver la visualización del cálculo en la pizarra de 
+
+			estratégias
+
+
+
+		_A:
+
+			_ésta opción nos permite activar ó desactivar que deseamos ver en el entorno de
+
+			juego, pudiendo así, activar ó desactivar tanto la pizarra de estratégias, las 
+
+			bolas de referencia de contacto, otros
+
+
+		
+
+
+
+
+

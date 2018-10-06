@@ -1,0 +1,93 @@
+
+
+8-ball pool:
+____________
+
+The game is played with 15 balls numbered 1 to 15.
+There are two ball groups:
+
+    SOLIDS (balls numbered 1-7)
+    STRIPES (balls numbered 9-15)
+
+plus an eight ball, which is colored black.
+(NOTICE: You have an option to play with all solids colored red and all stripes colored yellow, for better overview of the game.)
+
+First, the balls are racked in a triangular shape and a breaking shot is taken.
+For a breaking shot to succeed, you must either:
+
+    pot one or more balls from two groups of balls
+    make at least four balls hit cushion
+
+If the breaking shot did not succeed, the balls are reracked and the other player takes turn.
+The player that pots the first ball is assigned the group of balls this ball belongs to, and the other player is assigned the other group. If a player pots balls from both groups in one shot before groups were assigned, he is given a choice over which ball group he wants be assigned.
+
+The object of the game is to first pot all balls from an assigned group of balls, and then pot the eight ball.
+
+If a player does not pot any of his object balls in a shot, the turn is passed to the other player. When a player commits a foul, the other player gets a "free shot", meaning he is allowed to not pot any of his object balls during this shot, and still get a second shot.
+(NOTICE: A foul committed during a free shot counts as a regular foul and the player is not allowed a second shot.)
+
+The foul is committed when:
+
+    no ball is hit with the cue ball
+    the first ball hit is the opponent's ball or the eight ball
+    the cue ball is potted
+
+If the eight ball is potted without first potting the whole group of balls, the player loses the frame. Also, if the eight ball is potted with a foul, the player loses the frame.
+
+When a player pots the cue ball, the other player gets "ball in hand" and he may place the cue ball anywhere in the area behind the white line.
+
+
+
+
+9-ball pool:
+____________
+
+The game is played with 9 balls numbered 1 to 9.
+
+In every shot the player must first hit the lowest numbered ball on the table.
+However, the balls may be potted in any order.
+The player to first pot the nine ball wins the frame.
+
+First, the balls are racked in a diamond shape and a breaking shot is taken.
+For a breaking shot to succeed, you must either:
+
+    pot one or more balls
+    make at least three balls hit cushion
+
+When no ball is potted in a shot, the game passes to the other player.
+When a player commits a foul, the other player gets "ball in hand" and may place the cue ball anywhere on the table.
+
+The foul is committed when:
+
+    no ball is hit with the cue ball
+    the first ball hit is not the lowest numbered ball on the table
+    the cue ball is potted
+
+When the nine ball is potted with foul, it is respotted and the game is passed to the other player.
+Practice
+
+This is a mode for perfecting your shots.
+There are no rules.
+You may hit or pot any ball in any order you wish.
+After every shot, you get "ball in hand", so you can place the cue ball anywhere on the table.
+You can try one shot multiple times by using the UNDO option (press "U" after the shot).
+8-ball challenge
+
+In this game you play against the clock and try to enter the hi-score table.
+The game is played with 14 yellow balls and an eight ball which are racked in a triangular shape as in 8-ball pool.
+
+The goal is to first pot all 14 yellow balls, and then pot the eight ball.
+There is a 15 seconds time penalty for every foul you commit.
+The foul is committed when:
+
+    no ball is hit with the cue ball
+    eight ball is hit first while there are still some yellow balls on the table
+    cue ball is potted
+
+9-ball challenge
+
+In this game you play against the clock and try to enter the hi-score table.
+The rules for the 9-ball pool apply.
+There is a 15 seconds time penalty for every foul you commit 
+
+
