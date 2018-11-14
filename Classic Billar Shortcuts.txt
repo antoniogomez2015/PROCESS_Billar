@@ -16,61 +16,61 @@
 
 		_Space:
 
-			_ésta opción nos permite cambiar de cámara, nos permite cambiar ha una cámara con
+			_ï¿½sta opciï¿½n nos permite cambiar de cï¿½mara, nos permite cambiar ha una cï¿½mara con
 
-			una vista más panorámica de la mesa y por ende de la jugada en la cuál, podremos
+			una vista mï¿½s panorï¿½mica de la mesa y por ende de la jugada en la cuï¿½l, podremos
 
-			orbitar un poco, pudiendo así, apreciar mejor las posibilidades de juego
+			orbitar un poco, pudiendo asï¿½, apreciar mejor las posibilidades de juego
 
 
-			_y para invercamiar en las cámaras debemos hacer "space/space", repetidas veces
+			_y para invercamiar en las cï¿½maras debemos hacer "space/space", repetidas veces
 
 
 
 		_R:
 
-			_ésta opción nos permite ver la repetición instantánea de la última jugada, hecho
+			_ï¿½sta opciï¿½n nos permite ver la repeticiï¿½n instantï¿½nea de la ï¿½ltima jugada, hecho
 
-			ó shortcut, que debe de aplicarse justo al haber terminado la última jugada ya que
+			ï¿½ shortcut, que debe de aplicarse justo al haber terminado la ï¿½ltima jugada ya que
 
-			al hacer "mouse left click", ó "mouse right click", ya no habrá forma de ver la 
+			al hacer "mouse left click", ï¿½ "mouse right click", ya no habrï¿½ forma de ver la 
 
-			repetición de la última jugada realizada
+			repeticiï¿½n de la ï¿½ltima jugada realizada
 
 
 
 		_B:
 
-			_ésta opción nos permite escoger ó intercambiar en cualquier momento con que bola
+			_ï¿½sta opciï¿½n nos permite escoger ï¿½ intercambiar en cualquier momento con que bola
 
-			deseamos juegar, pudiendo así, jugar tanto con la bola blanca como con la bola
+			deseamos juegar, pudiendo asï¿½, jugar tanto con la bola blanca como con la bola
 
-			amarilla a través, del shortcut "B/B"
+			amarilla a travï¿½s, del shortcut "B/B"
 
 
 
 		_H: 
 
-			_ésta opción nos permite cambiar la situación ó ubicación de las 3, bolas en la
+			_ï¿½sta opciï¿½n nos permite cambiar la situaciï¿½n ï¿½ ubicaciï¿½n de las 3, bolas en la
 
-			mesa, de ésta manera, podremos cambiar el juego ha resolver en el tiro de un 
+			mesa, de ï¿½sta manera, podremos cambiar el juego ha resolver en el tiro de un 
 
 			momento dado
 
 
 		_I:
 
-			_ésta opción nos permite cambiar la situación ó ubicación de las 3, bolas en la
+			_ï¿½sta opciï¿½n nos permite cambiar la situaciï¿½n ï¿½ ubicaciï¿½n de las 3, bolas en la
 
-			mesa de forma manual, para que así, podamos cambiar la situación de juego a 
+			mesa de forma manual, para que asï¿½, podamos cambiar la situaciï¿½n de juego a 
 
-			voluntad y de forma personalizada y milimétrica
+			voluntad y de forma personalizada y milimï¿½trica
 
-			_a través, de una vista axonométrica ó cenital en la cuál, podremos a través, del
+			_a travï¿½s, de una vista axonomï¿½trica ï¿½ cenital en la cuï¿½l, podremos a travï¿½s, del
 
 			mouse, seleccionar cada una de las bolas en la mesa y colocarlas en el lugar 
 
-			deseado para luego hacer "mouse right click", y volver al modo de visualización 
+			deseado para luego hacer "mouse right click", y volver al modo de visualizaciï¿½n 
 
 			normal de la mesa
 
@@ -78,44 +78,44 @@
 
 		_G:
 
-			_ésta opción nos permite volver ha una situación de juego anterior, de ésta 
+			_ï¿½sta opciï¿½n nos permite volver ha una situaciï¿½n de juego anterior, de ï¿½sta 
 
-			manera podremos volver sólo ha una situación de juego atras pudiendo así, volver
+			manera podremos volver sï¿½lo ha una situaciï¿½n de juego atras pudiendo asï¿½, volver
 
 			ha jugar el tiro anterior en caso de haber pasado al siguiente por descuido
 
 
 		_J:
 
-			_ésta opción nos permite cambiar las opciones de juego, como cambiar ha la modalidad
+			_ï¿½sta opciï¿½n nos permite cambiar las opciones de juego, como cambiar ha la modalidad
 
-			de jeugo libre, 1 banda, 3 bandas, de forma rápida y directa sin la necesidad de 
+			de jeugo libre, 1 banda, 3 bandas, de forma rï¿½pida y directa sin la necesidad de 
 	
 			del modo de entrenamiento
 
 
 		_D:
 
-			_ésta opción nos permite de forma rápida volver ha colocar la vista de cámara en su
+			_ï¿½sta opciï¿½n nos permite de forma rï¿½pida volver ha colocar la vista de cï¿½mara en su
 
-			posición inicial u original del respectivo tiro
+			posiciï¿½n inicial u original del respectivo tiro
 
 
 
 		_E:
 
-			_ésta opción permite que el sistema haga un cálculo de la mejor jugada posible la
+			_ï¿½sta opciï¿½n permite que el sistema haga un cï¿½lculo de la mejor jugada posible la
 
-			cuál, nos mostrará la respectiva trayectoria en la pizarra de estratégias, de ésta
+			cuï¿½l, nos mostrarï¿½ la respectiva trayectoria en la pizarra de estratï¿½gias, de ï¿½sta
 
 			manera, podremos ver jugadas posibles para resolver la respectiva jugada
 
 
 		M:
 
-			_ésta opción nos permite dejar la letra "M", pulsada para que así, podamos ver la
+			_ï¿½sta opciï¿½n nos permite dejar la letra "M", pulsada para que asï¿½, podamos ver la
 
-			trayectoria en movimiento de la simulación realizada sobre la pizarra de estratégias
+			trayectoria en movimiento de la simulaciï¿½n realizada sobre la pizarra de estratï¿½gias
 
 			realizada en el paso del shortcut, anterior "E"
 
@@ -123,9 +123,9 @@
 
 		_Z:
 
-			_ésta opción nos permitirá llevar ha cabo la respectiva jugada ó cálculo realizado
+			_ï¿½sta opciï¿½n nos permitirï¿½ llevar ha cabo la respectiva jugada ï¿½ cï¿½lculo realizado
 
-			por el sistema y ver éste ejecutado en la mesa de billar y observar de primera mano
+			por el sistema y ver ï¿½ste ejecutado en la mesa de billar y observar de primera mano
 
 			los resultados
 
@@ -133,17 +133,17 @@
 
 		_V:
 
-			_ésta opción nos permite ver la visualización del cálculo en la pizarra de 
+			_ï¿½sta opciï¿½n nos permite ver la visualizaciï¿½n del cï¿½lculo en la pizarra de 
 
-			estratégias
+			estratï¿½gias
 
 
 
 		_A:
 
-			_ésta opción nos permite activar ó desactivar que deseamos ver en el entorno de
+			_ï¿½sta opciï¿½n nos permite activar ï¿½ desactivar que deseamos ver en el entorno de
 
-			juego, pudiendo así, activar ó desactivar tanto la pizarra de estratégias, las 
+			juego, pudiendo asï¿½, activar ï¿½ desactivar tanto la pizarra de estratï¿½gias, las 
 
 			bolas de referencia de contacto, otros
 
